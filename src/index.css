@@ -1,0 +1,8 @@
+body {
+  all: unset;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
